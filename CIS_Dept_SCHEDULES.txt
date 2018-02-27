@@ -1,0 +1,119 @@
+
+15:15:03 02-22-18 Student Schedule Page 
+Mr. Gerald Abridge Academic Program(s): CS.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/06/21 Office.: xxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- TH-119-02 MWF 09:30AM 10:20AM MAIN ALFH 30 LEC 01/15/18 2018SP 3.00cr New FIRST THEOLOGY C. McMahon
+SP-204-07 MW 04:00PM 05:15PM MAIN ALFH 45 LEC 01/15/18 2018SP 3.00cr New INTERMEDIATE SPANISH J. Reyna
+PL-101-08 MWF 03:00PM 03:50PM MAIN HH 303 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY J. Taylor
+HI-103-01 TTH 11:30AM 12:45PM MAIN ALFH 21 LEC 01/15/18 2018SP 3.00cr New MEDIEVAL & RENAISSANC G. Bogner
+CS-225-01 M 06:30PM 09:00PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New CYBERSECURITY M. Taylor
+CS-111-01 TTH 10:00AM 11:15AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New C++ PROGRAMMING II C. Martincic
+Total Credits: 18.00 Total CEUs : 0.00
+15:15:04 02-22-18 Student Schedule Page 
+Ms. Randall N. Abet Academic Program(s): CIS.SEC.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxxx.Ant Cmpl Date......: 05/12/18 Office.: xxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- HI-213-01 MWF 11:30AM 12:20PM MAIN ALFH 34 LEC 01/15/18 2018SP 3.00cr New DAME & DISTAFF G. Bogner
+CS-358-01 T 02:30PM 03:45PM MAIN DUPR W214 LEC 01/15/18 2018SP 2.00cr New COMPUTING SCIENCE PRO C. Martincic
+CLS-504-01 TTH 08:30AM 09:45AM MAIN ALFH 31 LEC 01/15/18 2018SP 3.00cr New ETHICAL DEC. & DIL. I E. Kocian
+GCLS-680-01 T 06:30PM 09:00PM MAIN ALFH 21 LEC 01/15/18 2018SP 3.00cr New URBAN STREET GANG PRO S. Daly
+CS-00X-01 TBA 2018SP 0.00cr New COMPUTING EXIT INTERV C. Martincic
+Total Credits: 11.00 Total CEUs : 0.00
+15:15:04 02-22-18 Student Schedule Page 
+Mr. Liam R. Axe Academic Program(s): CS.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/06/21 Office.: xxxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- TH-119-01 MWF 08:30AM 09:20AM MAIN ALFH 30 LEC 01/15/18 2018SP 3.00cr New FIRST THEOLOGY C. McMahon
+SP-204-02 MWF 09:30AM 10:20AM MAIN ALFH 32 LEC 01/15/18 2018SP 3.00cr New INTERMEDIATE SPANISH M. Rivas
+PL-101-08 MWF 03:00PM 03:50PM MAIN HH 303 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY J. Taylor
+MU-175-03 T 09:15PM 11:00PM MAIN CARC GYM LEC 01/15/18 2018SP 0.00cr New INSTRUMENTAL ENSEMBLE R. Kratofil
+MA-110-03 MWF 02:00PM 02:50PM MAIN DUPR E108 LEC 01/15/18 2018SP 4.00cr New CALC WITH APPLICATION TH 01:00PM 01:50PM MAIN DUPR WG03 LEC 01/15/18 L. Mismas
+CS-111-01 TTH 10:00AM 11:15AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New C++ PROGRAMMING II C. Martincic
+MU-172-01 M 07:15PM 09:00PM MAIN CARC 31 LEC 01/15/18 2018SP 1.00cr New CONCERT BAND R. Kratofil
+MU-171-01 TTH 09:15PM 11:00PM TBA TBA LEC 01/15/18 2018SP 1.00cr New MARCHING BAND R. Kratofil
+Total Credits: 18.00 Total CEUs : 0.00
+15:15:05 02-22-18 Student Schedule Page 
+Mr. Mason J. Ball Academic Program(s): CS.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxxx Ant Cmpl Date......: 05/06/21 Office.: xxxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- MA-109-02 MWF 10:30AM 11:20AM MAIN DUPR WG03 LEC 01/15/18 2018SP 4.00cr New CALC WITH APPLICATION M. Prudente
+HI-103-02 TTH 02:30PM 03:45PM MAIN ALFH 36 LEC 01/15/18 2018SP 3.00cr New MEDIEVAL & RENAISSANC G. Bogner
+EL-102-01 MWF 09:30AM 10:20AM MAIN PLAC 424 LEC 01/15/18 2018SP 3.00cr New LANGUAGE AND RHETORIC D. McDaniel
+CS-225-01 M 06:30PM 09:00PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New CYBERSECURITY M. Taylor
+CS-111-01 TTH 10:00AM 11:15AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New C++ PROGRAMMING II C. Martincic
+AR-165-01 TTH 01:00PM 02:15PM MAIN CARC 31 LEC 01/15/18 2018SP 3.00cr New MUSICAL THEATER HISTO G. Brandt
+Total Credits: 19.00 Total CEUs : 0.00
+15:15:05 02-22-18 Student Schedule Page 
+Mr. Aidan A. Balloo Academic Program(s): CYSEC.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: Ant Cmpl Date......: 05/11/19 Office.:
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- PL-101-04 TTH 02:30PM 03:45PM MAIN HH 303 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY E. Torisky
+NSCI-126-01 M 02:00PM 04:50PM MAIN DUPR N116 LAB 01/15/18 2018SP 1.00cr New INTRO TO ENVIRON. SCI A. Petris
+NSCI-125-01 T 06:30PM 09:00PM MAIN DUPR E106 LEC 01/15/18 2018SP 3.00cr New INTRO TO ENVIRONMENTA J. Keene
+CS-310-01 TTH 08:30AM 09:45AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New PROGRAMMING LANGUAGES S. Jodis
+TH-320-01 TTH 01:00PM 02:15PM MAIN ALFH 32 LEC 01/15/18 2018SP 3.00cr New THEO. OF MEDIEV. CHRI N. Munsch
+CS-322-01 TTH 11:30AM 12:45PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New ADVANCED NETWORKING A. Serapiglia
+Total Credits: 16.00 Total CEUs : 0.00
+15:15:06 02-22-18 Student Schedule Page 
+Mr. Logan Babbleton Academic Program(s): CYSEC.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/08/21 Office.: xxxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- TH-119-07 TTH 08:30AM 09:45AM MAIN ALFH 33 LEC 01/15/18 2018SP 3.00cr New FIRST THEOLOGY S. Perry
+SP-204-04 MWF 11:30AM 12:20PM MAIN ALFH 32 LEC 01/15/18 2018SP 3.00cr New INTERMEDIATE SPANISH M. Rivas
+PL-101-01 MW 05:00PM 06:15PM MAIN ALFH 34 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY G. Leiner
+HI-105-01 MWF 09:30AM 10:20AM MAIN ALFH 34 LEC 01/15/18 2018SP 3.00cr New CONTEMPORARY EUROPE I S. Sommers
+CS-225-01 M 06:30PM 09:00PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New CYBERSECURITY M. Taylor
+CS-111-01 TTH 10:00AM 11:15AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New C++ PROGRAMMING II C. Martincic
+Total Credits: 18.00 Total CEUs : 0.00
+15:15:06 02-22-18 Student Schedule Page 
+Mr. Carter J. Bairn Academic Program(s): CS.BS Address Residency..........: None 301-910-5775 Ant Degree.........: BS
+Advisor: xxxxxx Ant Cmpl Date......: 05/06/21 Office.: xxxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- TH-119-05 MW 03:00PM 04:15PM MAIN ALFH 30 LEC 01/15/18 2018SP 3.00cr New FIRST THEOLOGY P. Sharbaugh
+PL-101-06 MWF 10:30AM 11:20AM MAIN HH 304 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY M. Krom
+MA-110-03 MWF 02:00PM 02:50PM MAIN DUPR E108 LEC 01/15/18 2018SP 4.00cr New CALC WITH APPLICATION TH 01:00PM 01:50PM MAIN DUPR WG03 LEC 01/15/18 L. Mismas
+CS-111-01 TTH 10:00AM 11:15AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New C++ PROGRAMMING II C. Martincic
+Total Credits: 13.00 Total CEUs : 0.00
+15:15:07 02-22-18 Student Schedule Page 
+Mr. Robert T. Bach Academic Program(s): CIS.CIS.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/11/19 Office.: xxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- TH-345-01 T 06:30PM 09:00PM MAIN ALFH 30 LEC 01/15/18 2018SP 3.00cr New CHRISTIAN SPIRITUAL W H. Paharik
+HI-290-01 W 06:30PM 09:00PM MAIN ALFH 24 LEC 01/15/18 2018SP 3.00cr New PEACE & JUSTICE/HIST. T. Kelly
+CS-355-01 TTH 01:00PM 02:15PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New SOFTWARE ENGINEERING C. Martincic
+CS-310-01 TTH 08:30AM 09:45AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New PROGRAMMING LANGUAGES S. Jodis
+CS-171-01 MW 03:00PM 04:15PM MAIN DUPR E106 LEC 01/15/18 2018SP 3.00cr New DISCRETE STRUCTURES I D. Carlson
+Total Credits: 15.00 Total CEUs : 0.00
+15:15:08 02-22-18 Student Schedule Page 
+Mr. Noah A. Bridge Academic Program(s): CIS.SEC.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/31/20 Office.: xxxxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- PL-101-02 TTH 10:00AM 11:15AM MAIN HH 304 LEC 01/15/18 2018SP 3.00cr New 1ST PHILOSOPHY G. Leiner
+GE-204-01 MWF 11:30AM 12:20PM MAIN ALFH 36 LEC 01/15/18 2018SP 3.00cr New INTERMEDIATE GERMAN I T. Ernst
+CS-330-01 MWF 09:30AM 10:20AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New COMP. ARCHITECT. & OP D. Carlson
+CS-225-01 M 06:30PM 09:00PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New CYBERSECURITY M. Taylor
+BA-250-01 TTH 01:00PM 02:15PM MAIN ALFH 31 LEC 01/15/18 2018SP 3.00cr New GLOBAL BUSINESS MANAG J. Kunkel
+Total Credits: 15.00 Total CEUs : 0.00
+15:15:10 02-22-18 Student Schedule Page 
+Mr. Oliver P. Byway Academic Program(s): CIS.CIS.BS Address, PA 15668 Residency..........: None
+Ant Degree.........: BS
+Advisor: xxxxx Ant Cmpl Date......: 05/11/19 Office.: xxx
+Course Inst Credits CRS Instructor Days Meeting Times Location Bldg/Room Meth Start Date Term CEUs Stat --------------------- --------- --------------- -------- ------------- -------- ---------- ------- ---------- ----- MA-251-01 MWF 02:00PM 02:50PM MAIN DUPR WG03 LEC 01/15/18 2018SP 3.00cr New LINEAR ALGEBRA M. Prudente
+EL-115-01 TBA 2018SP 3.00cr New BRIT LIT: NEOCLAS TO W. Snyder
+CS-355-01 TTH 01:00PM 02:15PM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New SOFTWARE ENGINEERING C. Martincic
+CS-310-01 TTH 08:30AM 09:45AM MAIN DUPR W214 LEC 01/15/18 2018SP 3.00cr New PROGRAMMING LANGUAGES S. Jodis
+CS-171-01 MW 03:00PM 04:15PM MAIN DUPR E106 LEC 01/15/18 2018SP 3.00cr New DISCRETE STRUCTURES I D. Carlson
+Total Credits: 15.00 Total CEUs : 0.00
+15:15:11 02-22-18 Student Schedule Page 
+
+
+
+
+
+
+
+
+
+
+
+
