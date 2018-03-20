@@ -1,0 +1,37 @@
+M:\CS355\Parse\Parse\bin\Debug\Parse.exe.config
+M:\CS355\Parse\Parse\bin\Debug\Parse.exe
+M:\CS355\Parse\Parse\bin\Debug\Parse.pdb
+M:\CS355\Parse\Parse\obj\Debug\Parse.csprojResolveAssemblyReference.cache
+M:\CS355\Parse\Parse\obj\Debug\Parse.Properties.Resources.resources
+M:\CS355\Parse\Parse\obj\Debug\Parse.csproj.GenerateResource.Cache
+M:\CS355\Parse\Parse\obj\Debug\Parse.exe
+M:\CS355\Parse\Parse\obj\Debug\Parse.pdb
+M:\CS355\Parse\Parse\obj\Debug\Parse.frmChooseFile.resources
+C:\Users\carciar\Documents\Parse\Parse\bin\Debug\Parse.exe.config
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.exe
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.pdb
+C:\Users\carciar\Documents\Parse\Parse\bin\Debug\Parse.exe
+C:\Users\carciar\Documents\Parse\Parse\bin\Debug\Parse.pdb
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.csprojResolveAssemblyReference.cache
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.frmChooseFile.resources
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.Properties.Resources.resources
+C:\Users\carciar\Documents\Parse\Parse\obj\Debug\Parse.csproj.GenerateResource.Cache
+P:\CS355_Group5_Parser\Parse\Parse\bin\Debug\Parse.exe.config
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.exe
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.pdb
+P:\CS355_Group5_Parser\Parse\Parse\bin\Debug\Parse.exe
+P:\CS355_Group5_Parser\Parse\Parse\bin\Debug\Parse.pdb
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.csprojResolveAssemblyReference.cache
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.frmChooseFile.resources
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.Properties.Resources.resources
+P:\CS355_Group5_Parser\Parse\Parse\obj\Debug\Parse.csproj.GenerateResource.Cache
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\bin\Debug\Parse.exe.config
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\bin\Debug\Parse.exe
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\bin\Debug\Parse.pdb
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.csprojResolveAssemblyReference.cache
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.frmChooseFile.resources
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.Properties.Resources.resources
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.csproj.GenerateResource.cache
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.exe
+D:\OneDrive - Saint Vincent College\Spring 2018\Software Engineering (CS-355-01)\Project\Project Files for Public Drive March 13, 2018\CS355_Group5_Parser March 13, 2018\Parse\Parse\obj\Debug\Parse.pdb
